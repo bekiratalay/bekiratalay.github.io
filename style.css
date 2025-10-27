@@ -1,9 +1,8 @@
-/* Genel Ayarlar */
-body {
-    font-family: 'monospace', sans-serif;
-    margin: 0;
-    padding: 0;
-    line-height: 1.6;
-    background-color: #000000;
-    text-color: #ffffff;
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: monospace;
+    font-style: 20vh;
+    padding-left: 20px;
+    font-weight: normal;
+    font-style: normal;
 }
