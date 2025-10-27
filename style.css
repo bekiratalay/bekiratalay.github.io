@@ -1,72 +1,9 @@
 /* Genel Ayarlar */
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'monospace', sans-serif;
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background: #f4f4f9;
+    background: #000000;
     color: #333;
-}
-
-/* Header */
-header {
-    background: #2c3e50;
-    color: #fff;
-    padding: 60px 20px;
-    text-align: center;
-}
-
-header h1 {
-    margin: 0;
-    font-size: 2.5em;
-}
-
-header p {
-    font-size: 1.2em;
-    margin-top: 10px;
-}
-
-/* Main İçerik */
-main {
-    max-width: 900px;
-    margin: 40px auto;
-    padding: 0 20px;
-}
-
-section {
-    margin-bottom: 40px;
-}
-
-section h2 {
-    color: #16a085;
-    border-bottom: 2px solid #16a085;
-    display: inline-block;
-    padding-bottom: 5px;
-}
-
-section p, section ul {
-    margin-top: 15px;
-}
-
-ul {
-    list-style: disc inside;
-}
-
-/* Footer */
-footer {
-    background: #2c3e50;
-    color: #fff;
-    text-align: center;
-    padding: 20px;
-}
-
-/* Responsive */
-@media (max-width: 600px) {
-    header h1 {
-        font-size: 2em;
-    }
-
-    header p {
-        font-size: 1em;
-    }
 }
