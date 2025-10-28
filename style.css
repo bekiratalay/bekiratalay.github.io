@@ -1,9 +1,18 @@
+.mainpage {
+    background-color: rgb(0, 0, 0);
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+
+}
+
+
 h1 {
     color: rgb(255, 255, 255);
     font-family: monospace;
-    font-style: 300vh;
-}
-
-.mainpage {
-    background-color: rgb(0, 0, 0);
+    font-style: 20vh;
+    padding-left: 20px;
+    font-weight: normal;
+    font-style: normal;
 }
